@@ -139,6 +139,14 @@
       "grade": "Carbonate",
       "enabled": true,
       "year": 2019
+    },
+    {
+      "id": "voltan-monarchx",
+      "current": "〔MonarchX〕",
+      "former": "Voltan",
+      "grade": "Emerald",
+      "enabled": true,
+      "year": 2017
     }
   ]
 }
