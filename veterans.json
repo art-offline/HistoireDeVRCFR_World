@@ -132,6 +132,13 @@
       "grade": "Candy",
       "enabled": true,
       "year": 2017
+    },
+    {
+      "id": "nig-0",
+      "current": "NIG",
+      "grade": "Carbonate",
+      "enabled": true,
+      "year": 2019
     }
   ]
 }
