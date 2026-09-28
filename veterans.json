@@ -71,8 +71,8 @@
         "enabled": true,
         "text": "OMBRE",
         "subtitle": "Arme Blanche",
-        "scale": 2.0,
-        "height": 0.50,
+        "scale": 1.75,
+        "height": 0.72,
         "maxDistance": 18.0
       }
     },
@@ -93,8 +93,8 @@
         "enabled": true,
         "text": "VÉTÉRAN DE FRANCE",
         "subtitle": "2014",
-        "scale": 2.0,
-        "height": 0.50,
+        "scale": 1.75,
+        "height": 0.72,
         "maxDistance": 18.0
       }
     },
@@ -112,8 +112,8 @@
         "enabled": true,
         "text": "INOUBLIABLE",
         "subtitle": "Kiffeur de Femboys!",
-        "scale": 2.0,
-        "height": 0.50,
+        "scale": 1.75,
+        "height": 0.72,
         "maxDistance": 18.0
       }
     },
@@ -130,8 +130,8 @@
         "enabled": true,
         "text": "OMBRE",
         "subtitle": "",
-        "scale": 2.0,
-        "height": 0.50,
+        "scale": 1.75,
+        "height": 0.72,
         "maxDistance": 18.0
       }
     },
@@ -149,8 +149,8 @@
         "enabled": true,
         "text": "ARCHITECTE",
         "subtitle": "Meilleur que Minunn :P",
-        "scale": 2.0,
-        "height": 0.50,
+        "scale": 1.75,
+        "height": 0.72,
         "maxDistance": 18.0
       }
     },
@@ -167,8 +167,8 @@
         "enabled": true,
         "text": "PUISSANCE",
         "subtitle": "Developpeur de Renom",
-        "scale": 2.0,
-        "height": 0.50,
+        "scale": 1.75,
+        "height": 0.72,
         "maxDistance": 18.0
       }
     }
