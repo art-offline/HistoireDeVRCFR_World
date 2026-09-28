@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "001",
+  "revision": "002",
   "updatedAt": "2026-09-28",
   "refreshSeconds": 300,
   "wall": {
@@ -104,7 +104,7 @@
     {
       "id": "aka-ygwer",
       "current": "7gwer",
-      "former": "AKA",
+      "former": "AK",
       "grade": "Carbonate",
       "enabled": true,
       "year": 2015
@@ -112,8 +112,18 @@
     {
       "id": "maganim-0",
       "current": "MaganiM",
+      "grade": "Neutral",
       "enabled": true,
-      "year": 2014
+      "year": 2014,
+      "custom": {
+        "tint": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "neutral": true
+      }
     },
     {
       "id": "xxwizzardxx-wzzx",
