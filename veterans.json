@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "revision": "001",
+  "updatedAt": "2026-09-28",
+  "refreshSeconds": 300,
+  "wall": {
+    "title": "MUR DES VÉTÉRANS",
+    "period": "2014-2019",
+    "community": "Communauté France VRChat"
+  },
+  "grades": {
+    "Carbonate": {
+      "title": "LES OMBRES",
+      "description": "Figures de factions, collectifs ou cercles d'influence.",
+      "palette": {
+        "base": [
+          0.055,
+          0.06,
+          0.07,
+          1.0
+        ],
+        "accent": [
+          0.55,
+          0.59,
+          0.64,
+          1.0
+        ]
+      }
+    },
+    "Candy": {
+      "title": "LES INOUBLIABLES",
+      "description": "Présences appréciées, fédératrices et mémorables.",
+      "palette": {
+        "base": [
+          0.88,
+          0.13,
+          0.64,
+          1.0
+        ],
+        "accent": [
+          0.45,
+          0.16,
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "Goldy": {
+      "title": "LES BÂTISSEURS",
+      "description": "Créateurs reconnus d'avatars, mondes, outils ou scripts.",
+      "palette": {
+        "base": [
+          0.73,
+          0.43,
+          0.085,
+          1.0
+        ],
+        "accent": [
+          1.0,
+          0.89,
+          0.43,
+          1.0
+        ]
+      }
+    },
+    "Emerald": {
+      "title": "LES ARCHITECTES",
+      "description": "Développeurs de clients, mods et innovations techniques.",
+      "palette": {
+        "base": [
+          0.015,
+          0.42,
+          0.25,
+          1.0
+        ],
+        "accent": [
+          0.25,
+          1.0,
+          0.67,
+          1.0
+        ]
+      }
+    },
+    "BloodRuby": {
+      "title": "LES PUISSANCES",
+      "description": "Acteurs associés à des tournants majeurs de la communauté.",
+      "palette": {
+        "base": [
+          0.36,
+          0.004,
+          0.028,
+          1.0
+        ],
+        "accent": [
+          1.0,
+          0.035,
+          0.12,
+          1.0
+        ]
+      }
+    }
+  },
+  "veterans": [
+    {
+      "id": "aka-ygwer",
+      "current": "7gwer",
+      "former": "AKA",
+      "grade": "Carbonate",
+      "enabled": true,
+      "year": 2015,
+    },
+    {
+      "id": "maganim-0",
+      "current": "MaganiM",
+      "enabled": true,
+      "year": 2014
+    },
+    {
+      "id": "xxwizzardxx-wzzx",
+      "current": "wzzx",
+      "former": "User_0ffline",
+      "grade": "Candy",
+      "enabled": true,
+      "year": 2017
+    }
+  ]
+}
