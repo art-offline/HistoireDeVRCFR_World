@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "003",
+  "revision": "004",
   "updatedAt": "2026-09-28",
   "refreshSeconds": 300,
   "wall": {
@@ -10,7 +10,7 @@
   },
   "overheadTitles": {
     "enabled": true,
-    "defaultHeight": 0.3,
+    "defaultHeight": 0.17,
     "defaultScale": 1.0,
     "defaultMaxDistance": 18.0
   },
@@ -72,7 +72,7 @@
         "text": "OMBRE",
         "subtitle": "Arme Blanche",
         "scale": 1.0,
-        "height": 0.3,
+        "height": 0.17,
         "maxDistance": 18.0
       }
     },
@@ -94,7 +94,7 @@
         "text": "VÉTÉRAN DE FRANCE",
         "subtitle": "2014",
         "scale": 1.0,
-        "height": 0.3,
+        "height": 0.17,
         "maxDistance": 18.0
       }
     },
@@ -113,7 +113,7 @@
         "text": "INOUBLIABLE",
         "subtitle": "Kiffeur de Femboys!",
         "scale": 1.0,
-        "height": 0.3,
+        "height": 0.17,
         "maxDistance": 18.0
       }
     },
@@ -131,7 +131,7 @@
         "text": "OMBRE",
         "subtitle": "",
         "scale": 1.0,
-        "height": 0.3,
+        "height": 0.17,
         "maxDistance": 18.0
       }
     },
@@ -150,7 +150,7 @@
         "text": "ARCHITECTE",
         "subtitle": "Meilleur que Minunn :P",
         "scale": 1.0,
-        "height": 0.3,
+        "height": 0.17,
         "maxDistance": 18.0
       }
     },
@@ -168,7 +168,7 @@
         "text": "PUISSANCE",
         "subtitle": "Developpeur de Renom",
         "scale": 1.0,
-        "height": 0.3,
+        "height": 0.17,
         "maxDistance": 18.0
       }
     }
