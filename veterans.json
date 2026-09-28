@@ -147,6 +147,13 @@
       "grade": "Emerald",
       "enabled": true,
       "year": 2017
+    },
+    {
+      "id": "slaynash-0",
+      "current": "Slaynash",
+      "grade": "BloodRuby",
+      "enabled": true,
+      "year": 2018
     }
   ]
 }
