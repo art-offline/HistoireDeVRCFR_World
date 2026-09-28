@@ -69,8 +69,8 @@
       },
       "overheadTitle": {
         "enabled": true,
-        "text": "LES OMBRES",
-        "subtitle": "VÉTÉRAN • 2015",
+        "text": "OMBRE",
+        "subtitle": "Arme Blanche",
         "scale": 1.0,
         "height": 0.3,
         "maxDistance": 18.0
@@ -92,7 +92,7 @@
       "overheadTitle": {
         "enabled": true,
         "text": "VÉTÉRAN DE FRANCE",
-        "subtitle": "VÉTÉRAN • 2014",
+        "subtitle": "2014",
         "scale": 1.0,
         "height": 0.3,
         "maxDistance": 18.0
@@ -110,8 +110,8 @@
       },
       "overheadTitle": {
         "enabled": true,
-        "text": "LES INOUBLIABLES",
-        "subtitle": "VÉTÉRAN • 2017",
+        "text": "INOUBLIABLE",
+        "subtitle": "Kiffeur de Femboys!",
         "scale": 1.0,
         "height": 0.3,
         "maxDistance": 18.0
@@ -128,8 +128,8 @@
       },
       "overheadTitle": {
         "enabled": true,
-        "text": "LES OMBRES",
-        "subtitle": "VÉTÉRAN • 2019",
+        "text": "OMBRE",
+        "subtitle": "",
         "scale": 1.0,
         "height": 0.3,
         "maxDistance": 18.0
@@ -147,8 +147,8 @@
       },
       "overheadTitle": {
         "enabled": true,
-        "text": "LES ARCHITECTES",
-        "subtitle": "VÉTÉRAN • 2017",
+        "text": "ARCHITECTE",
+        "subtitle": "Meilleur que Minunn :P",
         "scale": 1.0,
         "height": 0.3,
         "maxDistance": 18.0
@@ -165,8 +165,8 @@
       },
       "overheadTitle": {
         "enabled": true,
-        "text": "LES PUISSANCES",
-        "subtitle": "VÉTÉRAN • 2018",
+        "text": "PUISSANCE",
+        "subtitle": "Developpeur de Renom",
         "scale": 1.0,
         "height": 0.3,
         "maxDistance": 18.0
