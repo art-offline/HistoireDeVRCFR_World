@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "002",
+  "revision": "003",
   "updatedAt": "2026-09-28",
   "refreshSeconds": 300,
   "wall": {
@@ -8,95 +8,51 @@
     "period": "2014-2019",
     "community": "Communauté France VRChat"
   },
+  "overheadTitles": {
+    "enabled": true,
+    "defaultHeight": 0.3,
+    "defaultScale": 1.0,
+    "defaultMaxDistance": 18.0
+  },
   "grades": {
     "Carbonate": {
       "title": "LES OMBRES",
       "description": "Figures de factions, collectifs ou cercles d'influence.",
       "palette": {
-        "base": [
-          0.055,
-          0.06,
-          0.07,
-          1.0
-        ],
-        "accent": [
-          0.55,
-          0.59,
-          0.64,
-          1.0
-        ]
+        "base": [0.055, 0.06, 0.07, 1.0],
+        "accent": [0.55, 0.59, 0.64, 1.0]
       }
     },
     "Candy": {
       "title": "LES INOUBLIABLES",
       "description": "Présences appréciées, fédératrices et mémorables.",
       "palette": {
-        "base": [
-          0.88,
-          0.13,
-          0.64,
-          1.0
-        ],
-        "accent": [
-          0.45,
-          0.16,
-          1.0,
-          1.0
-        ]
+        "base": [0.88, 0.13, 0.64, 1.0],
+        "accent": [0.45, 0.16, 1.0, 1.0]
       }
     },
     "Goldy": {
       "title": "LES BÂTISSEURS",
       "description": "Créateurs reconnus d'avatars, mondes, outils ou scripts.",
       "palette": {
-        "base": [
-          0.73,
-          0.43,
-          0.085,
-          1.0
-        ],
-        "accent": [
-          1.0,
-          0.89,
-          0.43,
-          1.0
-        ]
+        "base": [0.73, 0.43, 0.085, 1.0],
+        "accent": [1.0, 0.89, 0.43, 1.0]
       }
     },
     "Emerald": {
       "title": "LES ARCHITECTES",
       "description": "Développeurs de clients, mods et innovations techniques.",
       "palette": {
-        "base": [
-          0.015,
-          0.42,
-          0.25,
-          1.0
-        ],
-        "accent": [
-          0.25,
-          1.0,
-          0.67,
-          1.0
-        ]
+        "base": [0.015, 0.42, 0.25, 1.0],
+        "accent": [0.25, 1.0, 0.67, 1.0]
       }
     },
     "BloodRuby": {
       "title": "LES PUISSANCES",
       "description": "Acteurs associés à des tournants majeurs de la communauté.",
       "palette": {
-        "base": [
-          0.36,
-          0.004,
-          0.028,
-          1.0
-        ],
-        "accent": [
-          1.0,
-          0.035,
-          0.12,
-          1.0
-        ]
+        "base": [0.36, 0.004, 0.028, 1.0],
+        "accent": [1.0, 0.035, 0.12, 1.0]
       }
     }
   },
@@ -107,7 +63,18 @@
       "former": "AK",
       "grade": "Carbonate",
       "enabled": true,
-      "year": 2015
+      "year": 2015,
+      "vrchat": {
+        "displayNames": ["7gwer"]
+      },
+      "overheadTitle": {
+        "enabled": true,
+        "text": "LES OMBRES",
+        "subtitle": "VÉTÉRAN • 2015",
+        "scale": 1.0,
+        "height": 0.3,
+        "maxDistance": 18.0
+      }
     },
     {
       "id": "maganim-0",
@@ -116,13 +83,19 @@
       "enabled": true,
       "year": 2014,
       "custom": {
-        "tint": [
-          1.0,
-          1.0,
-          1.0,
-          1.0
-        ],
+        "tint": [1.0, 1.0, 1.0, 1.0],
         "neutral": true
+      },
+      "vrchat": {
+        "displayNames": ["MaganiM"]
+      },
+      "overheadTitle": {
+        "enabled": true,
+        "text": "VÉTÉRAN DE FRANCE",
+        "subtitle": "VÉTÉRAN • 2014",
+        "scale": 1.0,
+        "height": 0.3,
+        "maxDistance": 18.0
       }
     },
     {
@@ -131,14 +104,36 @@
       "former": "User_0ffline",
       "grade": "Candy",
       "enabled": true,
-      "year": 2017
+      "year": 2017,
+      "vrchat": {
+        "displayNames": ["wzzx"]
+      },
+      "overheadTitle": {
+        "enabled": true,
+        "text": "LES INOUBLIABLES",
+        "subtitle": "VÉTÉRAN • 2017",
+        "scale": 1.0,
+        "height": 0.3,
+        "maxDistance": 18.0
+      }
     },
     {
       "id": "nig-0",
       "current": "NIG",
       "grade": "Carbonate",
       "enabled": true,
-      "year": 2019
+      "year": 2019,
+      "vrchat": {
+        "displayNames": ["NIG"]
+      },
+      "overheadTitle": {
+        "enabled": true,
+        "text": "LES OMBRES",
+        "subtitle": "VÉTÉRAN • 2019",
+        "scale": 1.0,
+        "height": 0.3,
+        "maxDistance": 18.0
+      }
     },
     {
       "id": "voltan-monarchx",
@@ -146,14 +141,36 @@
       "former": "Voltan",
       "grade": "Emerald",
       "enabled": true,
-      "year": 2017
+      "year": 2017,
+      "vrchat": {
+        "displayNames": ["MonarchX"]
+      },
+      "overheadTitle": {
+        "enabled": true,
+        "text": "LES ARCHITECTES",
+        "subtitle": "VÉTÉRAN • 2017",
+        "scale": 1.0,
+        "height": 0.3,
+        "maxDistance": 18.0
+      }
     },
     {
       "id": "slaynash-0",
       "current": "Slaynash",
       "grade": "BloodRuby",
       "enabled": true,
-      "year": 2018
+      "year": 2018,
+      "vrchat": {
+        "displayNames": ["Slaynash"]
+      },
+      "overheadTitle": {
+        "enabled": true,
+        "text": "LES PUISSANCES",
+        "subtitle": "VÉTÉRAN • 2018",
+        "scale": 1.0,
+        "height": 0.3,
+        "maxDistance": 18.0
+      }
     }
   ]
 }
