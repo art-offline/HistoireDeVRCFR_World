@@ -171,6 +171,25 @@
         "height": 0.70,
         "maxDistance": 18.0
       }
+    },
+    {
+      "id": "z-a",
+      "current": "A",
+      "former": "Z",
+      "grade": "Candy",
+      "enabled": true,
+      "year": 2015,
+      "vrchat": {
+        "displayNames": ["﮴﮴﮴﮴A"]
+      },
+      "overheadTitle": {
+        "enabled": true,
+        "text": "INOUBLIABLE",
+        "subtitle": "Rotted",
+        "scale": 1.75,
+        "height": 0.70,
+        "maxDistance": 18.0
+      }
     }
   ]
 }
