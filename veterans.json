@@ -61,7 +61,7 @@
       "id": "aka-ygwer",
       "current": "7gwer",
       "former": "AK",
-      "grade": "Carbonate",
+      "grade": "BloodRuby",
       "enabled": true,
       "year": 2015,
       "vrchat": {
@@ -69,8 +69,8 @@
       },
       "overheadTitle": {
         "enabled": true,
-        "text": "OMBRE",
-        "subtitle": "Toxico du C#",
+        "text": "DÉESE",
+        "subtitle": "DU MAL",
         "scale": 1.75,
         "height": 0.70,
         "maxDistance": 18.0
